@@ -10,7 +10,7 @@ Dave Gray: [TUTORIAL HERE](https://www.youtube.com/watch?v=RVFAyFWO4go&ab_channe
 
 Project contributed to and maintained by:
 
-- [Bob Oyier](https://github.com/oyieroyier/)
+- [Prince Daniel](https://github.com/prince475/)
 
 
 ### ISC License (ISC)
